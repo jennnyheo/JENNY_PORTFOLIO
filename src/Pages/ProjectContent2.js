@@ -23,7 +23,9 @@ const ProjectContents2 = () => {
           MongoDB를 사용하여 간단한 CRUD가 가능한 블로그 게시판을 제작하였습니다
         </p>
         <p className="gitIcon">
-          <AiOutlineGithub />
+          <a href="https://github.com/jennnyheo/Blog-Node.js-MongoDB-express/tree/master">
+            <AiOutlineGithub />
+          </a>
         </p>
       </div>
     </div>
