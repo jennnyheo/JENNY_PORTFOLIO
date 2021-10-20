@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/JENNY_PORTFOLIO/static/css/main.6f4143aa.chunk.css",
+    "main.css": "/JENNY_PORTFOLIO/static/css/main.0d09c6f3.chunk.css",
     "main.js": "/JENNY_PORTFOLIO/static/js/main.062fa61b.chunk.js",
     "main.js.map": "/JENNY_PORTFOLIO/static/js/main.062fa61b.chunk.js.map",
     "runtime-main.js": "/JENNY_PORTFOLIO/static/js/runtime-main.7f432aac.js",
@@ -10,13 +10,13 @@
     "static/js/3.89aacf0b.chunk.js": "/JENNY_PORTFOLIO/static/js/3.89aacf0b.chunk.js",
     "static/js/3.89aacf0b.chunk.js.map": "/JENNY_PORTFOLIO/static/js/3.89aacf0b.chunk.js.map",
     "index.html": "/JENNY_PORTFOLIO/index.html",
-    "static/css/main.6f4143aa.chunk.css.map": "/JENNY_PORTFOLIO/static/css/main.6f4143aa.chunk.css.map",
+    "static/css/main.0d09c6f3.chunk.css.map": "/JENNY_PORTFOLIO/static/css/main.0d09c6f3.chunk.css.map",
     "static/js/2.0b665a86.chunk.js.LICENSE.txt": "/JENNY_PORTFOLIO/static/js/2.0b665a86.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7f432aac.js",
     "static/js/2.0b665a86.chunk.js",
-    "static/css/main.6f4143aa.chunk.css",
+    "static/css/main.0d09c6f3.chunk.css",
     "static/js/main.062fa61b.chunk.js"
   ]
 }
