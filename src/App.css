@@ -123,9 +123,15 @@ a {
   }
   .projectContent {
     height: 220px;
+    width: 310px;
   }
   .indexHeader {
     font-size: 20px;
+  }
+  .education_First,
+  .education-Second,
+  .education-Thrid {
+    width: 500px;
   }
 }
 
