@@ -1,5 +1,10 @@
 import React from "react";
-import { AiOutlineGithub } from "react-icons/ai";
+import {
+  AiFillIeCircle,
+  AiFillProfile,
+  AiOutlineCloudDownload,
+  AiOutlineGithub,
+} from "react-icons/ai";
 
 const ProjectContents = () => {
   return (
@@ -14,8 +19,14 @@ const ProjectContents = () => {
         </p>
         <p>index, host, mypage, search 페이지를 제작하였습니다</p>
         <p className="gitIcon">
-          <a href="https://github.com/dijung90/sheerhouseProject">
-            <AiOutlineGithub />
+          <a
+            href="http://ec2-13-125-171-94.ap-northeast-2.compute.amazonaws.com/index.do"
+            alt="사이트 이동"
+          >
+            <AiFillIeCircle />
+          </a>
+          <a href="https://drive.google.com/file/d/1jWufIiIETE0WJgnMlJLaTvZTDNfScc6x/view?usp=sharing">
+            <AiOutlineCloudDownload />
           </a>
         </p>
       </div>
