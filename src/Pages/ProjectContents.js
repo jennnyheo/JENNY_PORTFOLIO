@@ -1,7 +1,6 @@
 import React from "react";
 import {
   AiFillIeCircle,
-  AiFillProfile,
   AiOutlineCloudDownload,
   AiOutlineGithub,
 } from "react-icons/ai";
@@ -27,6 +26,9 @@ const ProjectContents = () => {
           </a>
           <a href="https://drive.google.com/file/d/1jWufIiIETE0WJgnMlJLaTvZTDNfScc6x/view?usp=sharing">
             <AiOutlineCloudDownload />
+          </a>
+          <a href="https://github.com/jennnyheo/Sheerhouse_Project">
+            <AiOutlineGithub />
           </a>
         </p>
       </div>
