@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/JENNY_PORTFOLIO/static/css/main.a17c0cb7.chunk.css",
-    "main.js": "/JENNY_PORTFOLIO/static/js/main.e6096871.chunk.js",
-    "main.js.map": "/JENNY_PORTFOLIO/static/js/main.e6096871.chunk.js.map",
+    "main.js": "/JENNY_PORTFOLIO/static/js/main.327e91a2.chunk.js",
+    "main.js.map": "/JENNY_PORTFOLIO/static/js/main.327e91a2.chunk.js.map",
     "runtime-main.js": "/JENNY_PORTFOLIO/static/js/runtime-main.7f432aac.js",
     "runtime-main.js.map": "/JENNY_PORTFOLIO/static/js/runtime-main.7f432aac.js.map",
     "static/js/2.003a7940.chunk.js": "/JENNY_PORTFOLIO/static/js/2.003a7940.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7f432aac.js",
     "static/js/2.003a7940.chunk.js",
     "static/css/main.a17c0cb7.chunk.css",
-    "static/js/main.e6096871.chunk.js"
+    "static/js/main.327e91a2.chunk.js"
   ]
 }
